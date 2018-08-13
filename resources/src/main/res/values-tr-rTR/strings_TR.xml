@@ -3,65 +3,65 @@
     <string name="a1_lang_english_name">Turkish</string>
     <string name="a1_lang_native_name">Türk</string>
 
-    <string name="act_add_card">Add card</string>
-    <string name="act_apply">Apply</string>
-    <string name="act_arrange_desktop">Arrange desktop</string>
+    <string name="act_add_card">Kart Ekle</string>
+    <string name="act_apply">Uygula</string>
+    <string name="act_arrange_desktop">Masaüstünü Düzenle</string>
     <string name="act_bookmark">Bookmark</string>
-    <string name="act_cancel">Ýptal</string>
-    <string name="act_change_mode">Change mode</string>
-    <string name="act_clear_templates">Clear templates</string>
+    <string name="act_cancel">İptal</string>
+    <string name="act_change_mode">Mod Değiştir</string>
+    <string name="act_clear_templates">Şablonu Sil</string>
     <string name="act_close">Kapat</string>
     <string name="act_copy">Kopyala</string>
-    <string name="act_create">Oluþtur</string>
-    <string name="act_delete">Delete</string>
-    <string name="act_edit">Edit</string>
-    <string name="act_edit_args">Edit arguments</string>
-    <string name="act_edit_title">Edit title</string>
-    <string name="act_go_today">Go to today</string>
-    <string name="act_hierarchical_balance">Hiyerarþik denge</string>
-    <string name="act_more">More</string>
-    <string name="act_move">Move</string>
-    <string name="act_move_down">Move down</string>
-    <string name="act_move_up">Move up</string>
+    <string name="act_create">Oluştur</string>
+    <string name="act_delete">Sil</string>
+    <string name="act_edit">Düzelt</string>
+    <string name="act_edit_args">Argüman Düzelt</string>
+    <string name="act_edit_title">Başlık Düzelt</string>
+    <string name="act_go_today">Bugüne Git</string>
+    <string name="act_hierarchical_balance">Hiyerarşik Bakiye</string>
+    <string name="act_more">Daha Çok</string>
+    <string name="act_move">Kaydır</string>
+    <string name="act_move_down">Aşağı Kaydır</string>
+    <string name="act_move_up">Yukarı Kaydır</string>
     <string name="act_new">Yeni</string>
-    <string name="act_next">Next</string>
+    <string name="act_next">Sonraki</string>
     <string name="act_ok">Tamam</string>
-    <string name="act_operations">Operations</string>
-    <string name="act_prev">Previous</string>
+    <string name="act_operations">İşlemler</string>
+    <string name="act_prev">Önceki</string>
     <string name="act_run">Run</string>
-    <string name="act_set_template">Set template</string>
-    <string name="act_set_working_book">Kullanýlan defteri belirle</string>
+    <string name="act_set_template">Şablon Ayarla</string>
+    <string name="act_set_working_book">Kullanılacak defteri Seç</string>
     <string name="act_slide_hint">Slide hint</string>
     <string name="act_stop">Dur</string>
-    <string name="act_swap">Swap</string>
+    <string name="act_swap">Değiştir</string>
     <string name="act_update">Güncelle</string>
 
-    <string name="card_info_expense">Expense information</string>
-    <string name="card_line_monthly_expense">Monthly expense</string>
-    <string name="card_line_monthly_expense_aggregate">Monthly aggregate expense</string>
+    <string name="card_info_expense">Gider Bilgisi</string>
+    <string name="card_line_monthly_expense">Aylık Gider</string>
+    <string name="card_line_monthly_expense_aggregate">Aylık Toplam Gider</string>
     <string name="card_nav_page">Navigation page</string>
-    <string name="card_pie_monthly_expense">Monthly expense</string>
-    <string name="card_pie_weekly_expense">Weekly expense</string>
+    <string name="card_pie_monthly_expense">Aylık Gider Grafiği</string>
+    <string name="card_pie_weekly_expense">Haftalık Gider Grafiği</string>
 
     <string name="chart_arg_calculation_mode_cumulative">Cumulative</string>
     <string name="chart_arg_calculation_mode_individual">Individual</string>
 
     <string name="defacc_bank">Banka</string>
     <string name="defacc_cash">Nakit</string>
-    <string name="defacc_clothing">Clothing</string>
-    <string name="defacc_creditcard">Kredi kartý</string>
-    <string name="defacc_education">Education</string>
-    <string name="defacc_entertainment">Eðlence</string>
-    <string name="defacc_food1">Yemek.Kiþisel</string>
+    <string name="defacc_clothing">Giyim</string>
+    <string name="defacc_creditcard">Kredi kartı</string>
+    <string name="defacc_education">Eğitim</string>
+    <string name="defacc_entertainment">Eğlence</string>
+    <string name="defacc_food1">Yemek.Kişisel</string>
     <string name="defacc_food2">Yemek.Parti</string>
     <string name="defacc_housing">Housing</string>
     <string name="defacc_interest">Faiz</string>
-    <string name="defacc_otherexpense">Diðer giderler</string>
-    <string name="defacc_otherincome">Diðer gelirler</string>
-    <string name="defacc_salary">Maaþ</string>
-    <string name="defacc_transportation">Transportation</string>
+    <string name="defacc_otherexpense">Diğer giderler</string>
+    <string name="defacc_otherincome">Diğer gelirler</string>
+    <string name="defacc_salary">Maaş</string>
+    <string name="defacc_transportation">Ulaşım</string>
 
-    <string accept="M/D/Y, D/M/Y, Y/M/D" name="default_pref_format_date">M/D/Y</string>
+    <string accept="M/D/Y, D/M/Y, Y/M/D" name="default_pref_format_date">A/G/Y</string>
     <string accept="digital, short, full" name="default_pref_format_month">digital</string>
     <string accept="12, 24" name="default_pref_format_time">12</string>
 
